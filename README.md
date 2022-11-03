@@ -1,2 +1,2 @@
 # javascript
- curso de javascript do gustavo guanabara
+ curso de javascript 
