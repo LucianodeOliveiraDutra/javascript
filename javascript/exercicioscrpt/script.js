@@ -1,18 +1,5 @@
-function validar (usuario, senha) {
-    if (usuario === 'pedro' && senha === 125) {
-        return true
-    } else {
-        return false
-    }
-    
-}
+function clicou() {
+    const teste = document.querySelector(".teste")
+    console.log(teste)
 
-let usuario = 'pedro'
-let senha = '123'
-let validacao = validar (usuario, senha)
-if (validacao) {
-    console.log('acesso concedido')
-
-} else {
-    console.log('acesso negado')
 }
